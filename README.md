@@ -18,10 +18,16 @@ IT Team
 To complete the analysis we used Sql and power Bi. SQL used to query and verify analysis while Power Bi used to create reports and dashboards.
 
 ### Observations: -
+After the Analysis we observed some important facts which are mentioned below--
+
 •	It has been Seen that from the Analysis AtliQ sale is declining over time and the current data shows that Company is in loss. It means revenue is declining year on year.
+
 •	Delhi NCR topped by Revenue and sales Qty which is around 52% of total revenue and over 50% of total sales respectively. Which is followed by Mumbai. 
+
 •	Sales Prediction for the next two years shows sales graph will be stagnant as the current and very less improvement shown from the data.
+
 •	North Zone have contributed magnificently for the Sales with over 86% of total revenue.
+
 •	Only one customer named Electricalsara Stores have contributed over 41% total sales revenue while there are 38 customers.
 
 ### Recommendations: -
